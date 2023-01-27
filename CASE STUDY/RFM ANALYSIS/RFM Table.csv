@@ -1,0 +1,90 @@
+CompanyName;recency;frequency;monetary;rfm_recency;rfm_frequency;rfm_monetary;rfm_cell_string
+Laughing Bacchus Wine Cellars;01/01/1998 00:00;8;8,975;1;1;1;111
+Familia Arquibaldo;31/10/1997 00:00;19;12,9021;1;2;1;112
+Centro comercial Moctezuma;18/07/1996 00:00;2;14,4;1;1;1;111
+Toms Spezialitäten;23/03/1998 00:00;14;15,175;2;2;1;122
+Romero y tomillo;09/04/1998 00:00;14;15,6635;2;2;1;122
+Vins et alcools Chevalier;12/11/1997 00:00;10;17,565;1;1;1;111
+Lazy K Kountry Store;22/05/1997 00:00;2;17,85;1;1;1;111
+Que Delícia;31/03/1998 00:00;24;17,8658;2;3;1;123
+Cactus Comidas para llevar;28/04/1998 00:00;11;17,9545;4;1;1;141
+LINO-Delicateses;21/04/1998 00:00;35;18,0457;3;4;1;134
+Magazzini Alimentari Riuniti;16/03/1998 00:00;21;18,538;2;3;1;123
+Du monde entier;16/02/1998 00:00;9;18,7388;1;1;1;111
+Drachenblut Delikatessen;04/05/1998 00:00;10;19,108;4;1;1;141
+Around the Horn;10/04/1998 00:00;30;19,1766;2;3;1;123
+Ricardo Adocicados;29/04/1998 00:00;27;19,2203;4;3;1;143
+Galería del gastrónomo;05/03/1998 00:00;8;19,5875;1;1;1;111
+Victuailles en stock;23/01/1998 00:00;25;20,418;1;3;1;113
+Frankenversand;09/04/1998 00:00;48;20,4787;2;4;1;124
+Wolski  Zajazd;23/04/1998 00:00;16;20,6312;3;2;1;132
+HILARION-Abastos;28/04/1998 00:00;45;20,6804;4;4;1;144
+LILA-Supermercado;05/05/1998 00:00;34;20,7982;4;4;1;144
+Ottilies Käseladen;14/04/1998 00:00;29;21,0189;3;3;1;133
+La maison d'Asie;27/04/1998 00:00;31;21,14;3;3;1;133
+Furia Bacalhau e Frutos do Mar;19/03/1998 00:00;20;21,395;2;2;2;222
+Vaffeljernet;02/04/1998 00:00;31;21,4032;2;4;2;224
+Ana Trujillo Emparedados y helados;04/03/1998 00:00;10;21,505;1;1;2;211
+Die Wandernde Kuh;23/04/1998 00:00;26;21,5865;3;3;2;233
+Island Trading;06/03/1998 00:00;23;21,6521;1;3;2;213
+Suprêmes délices;21/04/1998 00:00;39;21,682;3;4;2;234
+Antonio Moreno Taquería;28/01/1998 00:00;17;21,7194;1;2;2;212
+Reggiani Caseifici;30/04/1998 00:00;22;21,7613;4;3;2;243
+B's Beverages;14/04/1998 00:00;22;22,6909;3;3;2;233
+Hungry Coyote Import Store;08/09/1997 00:00;9;22,8166;1;1;2;211
+Trail's Head Gourmet Provisioners;08/01/1998 00:00;9;22,9444;1;1;2;211
+Let's Stop N Shop;12/02/1998 00:00;10;22,964;1;1;2;211
+Save-a-lot Markets;01/05/1998 00:00;116;23,1005;4;4;2;244
+Wartian Herkku;15/04/1998 00:00;37;23,4078;3;4;2;234
+Folk och fä HB;27/04/1998 00:00;45;23,5742;3;4;2;234
+Richter Supermarkt;06/05/1998 00:00;30;24,083;4;3;2;243
+Bon app';06/05/1998 00:00;44;24,1238;4;4;2;244
+Seven Seas Imports;04/02/1998 00:00;26;24,3269;1;3;2;213
+North/South;29/04/1998 00:00;6;24,3333;4;1;2;241
+Franchi S.p.A.;30/04/1998 00:00;10;24,4;4;1;2;241
+Blauer See Delikatessen;29/04/1998 00:00;14;24,7892;4;2;2;242
+Wilman Kala;07/04/1998 00:00;17;25,1588;2;2;2;222
+Bottom-Dollar Markets;24/04/1998 00:00;35;25,2457;3;4;3;334
+Wellington Importadora;09/03/1998 00:00;19;25,3;1;2;3;312
+Gourmet Lanchonetes;24/04/1998 00:00;19;25,6147;3;2;3;332
+La corne d'abondance;24/03/1998 00:00;11;25,9118;2;2;3;322
+Comércio Mineiro;22/04/1998 00:00;10;25,915;3;1;3;331
+Pericles Comidas clásicas;05/05/1998 00:00;14;25,9785;4;2;3;342
+Ernst Handel;05/05/1998 00:00;102;26,1438;4;4;3;344
+Queen Cozinha;04/05/1998 00:00;40;26,2952;4;4;3;344
+Lehmanns Marktstand;05/05/1998 00:00;39;26,3638;4;4;3;344
+Alfreds Futterkiste;09/04/1998 00:00;12;26,7375;2;2;3;322
+Consolidated Holdings;23/01/1998 00:00;7;27,1642;1;1;3;311
+Godos Cocina Típica;21/04/1998 00:00;26;27,388;3;3;3;333
+Eastern Connection;28/04/1998 00:00;21;27,4152;3;3;3;333
+Berglunds snabbköp;04/03/1998 00:00;52;27,4163;1;4;3;314
+Chop-suey Chinese;22/04/1998 00:00;22;27,6909;3;3;3;333
+Folies gourmandes;22/12/1997 00:00;16;27,7093;1;2;3;312
+Océano Atlántico Ltda.;30/03/1998 00:00;11;27,8863;2;2;3;322
+Old World Delicatessen;20/04/1998 00:00;24;28,7083;3;3;3;333
+Tortuga Restaurante;04/05/1998 00:00;29;29,0413;4;3;3;343
+Maison Dewey;07/04/1998 00:00;17;29,1988;2;2;3;322
+Morgenstern Gesundkost;12/03/1998 00:00;11;29,2954;2;2;3;322
+Mère Paillarde;30/10/1997 00:00;32;29,7531;1;4;3;314
+Rattlesnake Canyon Grocery;06/05/1998 00:00;71;30,745;4;4;4;444
+Lonesome Pine Restaurant;13/04/1998 00:00;14;31,2642;3;2;4;432
+Hungry Owl All-Night Grocers;30/04/1998 00:00;55;31,2701;4;4;4;444
+Princesa Isabel Vinhos;08/04/1998 00:00;10;31,299;2;1;4;421
+Königlich Essen;16/04/1998 00:00;39;31,5189;3;4;4;434
+QUICK-Stop;14/04/1998 00:00;86;31,8598;3;4;4;434
+White Clover Markets;01/05/1998 00:00;40;31,9582;4;4;4;444
+Blondesddsl père et fils;12/01/1998 00:00;26;32,6442;1;3;4;413
+The Cracker Box;06/04/1998 00:00;8;34,655;2;1;4;421
+Bólido Comidas preparadas;24/03/1998 00:00;6;34,865;2;1;4;421
+Piccolo und mehr;27/04/1998 00:00;23;34,9252;3;3;4;433
+Tradição Hipermercados;19/01/1998 00:00;13;35,1792;1;2;4;412
+Simons bistro;06/05/1998 00:00;15;36,5826;4;2;4;442
+Split Rail Beer & Ale;25/03/1998 00:00;20;37,17;2;3;4;423
+Santé Gourmet;10/04/1998 00:00;16;39,6056;2;2;4;422
+GROSELLA-Restaurante;18/12/1997 00:00;4;41,3875;1;1;4;411
+Hanari Carnes;27/04/1998 00:00;32;43,6281;3;4;4;434
+France restauration;24/03/1998 00:00;6;47,0983;2;1;4;421
+Rancho grande;13/04/1998 00:00;12;48,0458;2;2;4;422
+Great Lakes Food Market;30/04/1998 00:00;22;49,6154;4;3;4;443
+The Big Cheese;01/04/1998 00:00;7;57,9928;2;1;4;421
+Spécialités du monde;22/04/1998 00:00;6;68,0333;3;1;4;431
